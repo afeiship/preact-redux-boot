@@ -1,0 +1,26 @@
+{
+  "name": "preact-redux-boot",
+  "description": "Redux boot for preact.",
+  "main": "dist/preact-redux-boot.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/preact-redux-boot",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
